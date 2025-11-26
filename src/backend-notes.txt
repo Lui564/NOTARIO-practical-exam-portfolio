@@ -1,0 +1,5 @@
+1. Backend development: Writing code that runs on the server, handling data and logic behind the scenes.
+
+2. Examples of backend frameworks: Node.js, Django.
+
+3. API: A set of rules that lets software communicate with other software.
